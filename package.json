@@ -20,9 +20,11 @@
   "homepage": "https://github.com/BetelTagesse/state-management#readme",
   "description": "",
   "devDependencies": {
+    "daisyui": "^5.3.10",
     "nodemon": "^3.1.10"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.16",
     "bcrypt": "^6.0.0",
     "bcryptjs": "^3.0.2",
     "cookie-parser": "^1.4.7",
@@ -31,6 +33,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^2.2.12",
     "mongoose": "^8.19.2",
-    "socket.io": "^4.8.1"
+    "socket.io": "^4.8.1",
+    "tailwindcss": "^4.1.16"
   }
 }
